@@ -34,9 +34,18 @@ O programa contempla dez processos interdependentes:
 
 ## Roadmap de implantação
 
-A proposta prevê um roadmap de 18 meses, organizado em cinco ondas de implantação, com dependências entre processos, marcos de controle e critérios de aceite.
+A proposta contempla um horizonte indicativo de até 18 meses, organizado em **cinco ondas de implantação** e **cinco marcos de transição (*Quality Gates*)**, com dependências entre processos, critérios de avaliação e pontos de controle.
 
-O cronograma é demonstrativo e deverá ser adaptado conforme o diagnóstico, os riscos, os recursos e as prioridades de cada organização.
+O planejamento considera dois horizontes complementares:
+
+- **Implantação inicial — até 90 dias:** diagnóstico, priorização e início dos processos considerados prioritários.
+- **Evolução e maturação — até 18 meses:** desenvolvimento progressivo dos dez projetos, integração dos controles e consolidação das práticas de acompanhamento e melhoria contínua.
+
+Os *Quality Gates* representam pontos propostos de avaliação das condições de avanço entre as ondas. Seus critérios, períodos e evidências esperadas estão descritos no documento detalhado.
+
+O cronograma é conceitual e deve ser adaptado conforme o diagnóstico, os riscos, as dependências, os recursos e as prioridades de cada organização.
+
+Para consultar as cinco ondas, os marcos de transição e os critérios propostos, acesse o [Roadmap — Fases, Ondas e Marcos de Transição](02-roadmap/roadmap-fases-marcos.md) e o [Roadmap Consolidado SGS/SGSI](docs/Roadmap_Consolidado_SGS_SGSI_v1_1_revisado.docx).
 
 ## Referenciais metodológicos
 
