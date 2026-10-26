@@ -71,3 +71,23 @@ O projeto será aprofundado progressivamente por meio de procedimentos operacion
 José Eduardo Moura Cardozo
 
 Gestão de TI | Governança (GRC) | Operações de TI | Melhoria Contínua
+
+## Navegação do projeto
+
+Explore os principais componentes do programa:
+
+| Área | Conteúdo |
+|---|---|
+| [01 — Arquitetura](01-arquitetura/README.md) | Visão estrutural, domínios e componentes do modelo integrado SGS/SGSI. |
+| [02 — Roadmap](02-roadmap/README.md) | Fases, marcos, dependências e horizontes de evolução do programa. |
+| [03 — Processos](03-processos/README.md) | Catálogo dos dez processos de governança, serviços e segurança de TI. |
+| [04 — Governança e Controles](04-governanca-e-controles/README.md) | Estrutura de governança, responsabilidades e controles. |
+| [05 — Indicadores](05-indicadores/README.md) | Indicadores para acompanhamento executivo e operacional. |
+| [06 — Diagramas](06-diagramas/README.md) | Representações visuais da arquitetura e dos fluxos do programa. |
+| [Documentação central](docs/README.md) | Índice dos documentos de referência e materiais detalhados do projeto. |
+
+### Como navegar pela documentação
+
+As pastas temáticas apresentam sínteses, estruturas e diagramas para facilitar a compreensão do modelo. A pasta `docs/` concentra os documentos de referência completos.
+
+Este repositório apresenta um **projeto autoral e conceitual**. Os modelos, processos e controles descritos não constituem comprovação de implantação em uma organização real.
