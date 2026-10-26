@@ -4,80 +4,60 @@
 
 Esta pasta apresenta o planejamento conceitual de implantação e evolução do Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI).
 
-O roadmap organiza a evolução em etapas, considerando prioridades, dependências, capacidade operacional, gestão de riscos e melhoria contínua.
+O roadmap organiza a evolução dos dez projetos em ondas progressivas, considerando prioridades, dependências, capacidade operacional, riscos e melhoria contínua.
 
-> **Natureza do projeto:** case autoral e conceitual. Os prazos e marcos são referências de planejamento, não evidências de execução ou compromissos aprovados por uma organização real.
+> **Natureza do projeto:** case autoral e conceitual. Prazos, metas, custos, resultados e marcos são referências de planejamento; não constituem evidências de execução ou compromissos aprovados por uma organização real.
+
+## Conteúdo da pasta
+
+| Documento | Finalidade |
+|---|---|
+| [Roadmap — Fases, Ondas e Marcos de Transição](roadmap-fases-marcos.md) | Apresenta os horizontes de planejamento, as cinco ondas de implantação, os cinco *Quality Gates* e os critérios propostos para acompanhamento e transição. |
 
 ## Horizontes de planejamento
 
-| Horizonte | Objetivo |
-|---|---|
-| Até 90 dias | Estruturar a implantação inicial, priorizar escopo, estabelecer responsabilidades e iniciar os processos prioritários. |
-| Até 18 meses | Evoluir e amadurecer os processos, ampliar controles, avaliar resultados e consolidar a melhoria contínua. |
+O planejamento de referência considera dois horizontes complementares:
 
-Os planos específicos de 60 dias eventualmente utilizados nos projetos são estimativas locais e devem ser ajustados conforme escopo, capacidade, criticidade e dependências.
+- **Implantação inicial — até 90 dias:** janela ilustrativa para diagnóstico, priorização e início dos processos prioritários.
+- **Evolução e maturação — até 18 meses:** horizonte indicativo para desenvolver os dez projetos, integrar controles e consolidar práticas de acompanhamento e melhoria contínua.
 
-## Etapas conceituais
+Os 90 dias não representam prazo garantido para concluir toda a implantação inicial. Os períodos dependem do escopo, das prioridades, dos recursos, das dependências e das condições de execução.
 
-### 1. Preparação e direcionamento
+## Organização do roadmap
 
-- Confirmar objetivos, escopo e prioridades.
-- Definir papéis, responsabilidades e alçadas.
-- Identificar serviços, processos, riscos e dependências prioritários.
-- Estabelecer critérios de acompanhamento e comunicação.
+O documento consolidado estabelece **cinco ondas de implantação** e **cinco marcos de transição (*Quality Gates*)**:
 
-### 2. Estruturação e implantação inicial
+- **Ondas:** agrupam projetos e frentes de trabalho por período e objetivo.
+- **Quality Gates:** estabelecem pontos propostos de avaliação para verificar as condições de avanço entre ondas.
+- **Etapas conceituais:** quando utilizadas em outras visões do programa, representam agrupamentos de alto nível para comunicação e navegação; não substituem a estrutura detalhada das cinco ondas.
 
-- Organizar os processos prioritários de gestão de serviços.
-- Estruturar registros, procedimentos e controles.
-- Identificar fontes de dados e estabelecer linhas de base para os indicadores.
-- Integrar requisitos de segurança, ativos e continuidade ao planejamento.
+Para os períodos, projetos associados e critérios dos gates, consulte o documento [Roadmap — Fases, Ondas e Marcos de Transição](roadmap-fases-marcos.md).
 
-### 3. Integração e estabilização
+## Acompanhamento e revisão
 
-- Avaliar os relacionamentos entre processos.
-- Acompanhar indicadores e desvios.
-- Tratar lacunas, riscos e dependências.
-- Ajustar procedimentos com base nas avaliações realizadas.
+O acompanhamento deve considerar, conforme aplicável:
 
-### 4. Evolução e maturação
+- avanço planejado versus realizado;
+- entregas e evidências disponíveis;
+- riscos, dependências e impedimentos;
+- recursos e execução financeira;
+- indicadores operacionais e resultados validados;
+- ações corretivas e oportunidades de melhoria.
 
-- Ampliar a consistência dos processos e controles.
-- Avaliar a eficácia das ações de melhoria.
-- Aperfeiçoar a governança de fornecedores, capacidade, custos e continuidade.
-- Consolidar ciclos de avaliação e melhoria contínua.
+Os critérios de transição, os métodos de verificação e as evidências esperadas devem ser definidos antes das avaliações. Aprovações formais somente devem ser registradas quando efetivamente realizadas.
 
-O sequenciamento efetivo deve ser validado de acordo com a realidade organizacional. As etapas não representam comprovação de que as atividades foram executadas.
+## Documentos relacionados
 
-## Dependências críticas
+- [Roadmap Consolidado SGS/SGSI](../docs/Roadmap_Consolidado_SGS_SGSI_v1_1_revisado.docx)
+- [Documento Mestre SGS/SGSI](../docs/Documento_Mestre_SGS_SGSI_v1_1_revisado.docx)
+- [Arquitetura integrada SGS/SGSI](../01-arquitetura/README.md)
+- [Catálogo de processos](../03-processos/README.md)
+- [Governança, riscos e controles](../04-governanca-e-controles/README.md)
+- [Indicadores e acompanhamento de desempenho](../05-indicadores/README.md)
+- [README principal do projeto](../README.md)
 
-A evolução do programa depende, entre outros fatores, de:
+## Natureza do projeto e limitações
 
-- patrocínio e autoridade decisória;
-- definição de criticidade dos serviços;
-- disponibilidade e qualidade dos dados;
-- inventário de ativos e informações de configuração;
-- definição de responsabilidades;
-- participação das equipes e áreas de negócio;
-- validação de riscos, controles e requisitos aplicáveis.
+Este material integra um projeto autoral e conceitual para portfólio profissional. Não comprova implantação, aprovação corporativa, auditoria concluída, conformidade integral ou certificação.
 
-## Critérios de acompanhamento
-
-O avanço do roadmap deve ser avaliado com base em:
-
-- entregáveis definidos e critérios de aceite;
-- responsabilidades e dependências identificadas;
-- riscos e impedimentos acompanhados;
-- indicadores com fórmulas e fontes documentadas;
-- evidências verificáveis, quando houver execução real;
-- decisões e alterações de planejamento registradas.
-
-A conclusão de uma atividade não deve ser confundida com eficácia comprovada ou conformidade integral.
-
-## Documento de referência
-
-Consulte o [Roadmap Consolidado SGS/SGSI — versão 1.1](../docs/Roadmap_Consolidado_SGS_SGSI_v1_1_revisado.docx) para acessar o planejamento detalhado.
-
-## Próximo conteúdo
-
-O arquivo `roadmap-fases-marcos.md` apresentará o detalhamento conceitual das fases, dos marcos, das dependências e dos critérios de passagem entre etapas.
+Os prazos, percentuais, metas e valores devem ser interpretados conforme as premissas documentadas e validados antes de eventual aplicação organizacional.
