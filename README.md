@@ -1,27 +1,73 @@
-# 📋 Governança, Processos e Operações de TI
+# Programa Integrado de Governança, Serviços e Segurança de TI
 
-Este repositório é dedicado ao armazenamento de documentações, estruturação de processos operacionais e boas práticas de Governança de TI, alinhados a frameworks de mercado (GRC, ITIL, COBIT) e ao uso de Inteligência Artificial nas operações.
+**SGS / SGSI — Projeto autoral e conceitual**
 
----
+## Visão geral
 
-## 🎯 Objetivos
+Este projeto propõe um modelo integrado de Governança, Gestão de Serviços e Segurança da Informação, conectando estratégia, operação, riscos, compliance e melhoria contínua.
 
-* **Documentação Operacional:** Criação e manutenção de POPs (Procedimentos Operacionais Padrão) e políticas de SLA para equipes de Service Desk.
-* **Governança & GRC:** Mapeamento de matrizes de risco, controles internos e políticas de conformidade da informação.
-* **Otimização e IA:** Implementação de fluxos automatizados e catálogo de prompts para ganho de eficiência técnica.
+A arquitetura foi concebida para ser adaptada a organizações de diferentes portes e níveis de maturidade, considerando suas necessidades, prioridades e restrições.
 
----
+## Objetivos
 
-## 📂 Estrutura de Documentos
+- Alinhar a estratégia de TI aos objetivos do negócio.
+- Estruturar processos de gestão de serviços e operações.
+- Fortalecer governança, riscos, controles internos e compliance.
+- Melhorar a disponibilidade, a continuidade e a qualidade dos serviços.
+- Promover eficiência operacional, financeira e melhoria contínua.
+- Definir indicadores para acompanhamento executivo e operacional.
 
-* `/politicas/` — Diretrizes de uso de sistemas e segurança da informação.
-* `/processos-e-sla/` — Matrizes de escalonamento (N1, N2, N3) e tempos de resposta.
-* `/grc/` — Relatórios de conformidade e gestão de riscos da infraestrutura.
-* `/automacao-ia/` — Casos de uso de IA generativa aplicados ao suporte técnico.
+## Arquitetura integrada
 
----
+O programa contempla dez processos interdependentes:
 
-## 👤 Responsável
+1. Gestão de Incidentes.
+2. Gestão de Problemas e Base de Erros Conhecidos (KEDB).
+3. Gestão de Mudanças e Liberações (GMUD).
+4. Gestão de Níveis de Serviço (SLM) e Catálogo de Serviços.
+5. Gestão de Continuidade de Serviços de TI (ITSCM) e Recuperação de Desastres (DRP).
+6. Sistema de Gestão de Segurança da Informação (SGSI).
+7. Gestão de Ativos de TI (ITAM) e Base de Dados de Configuração (CMDB).
+8. Gestão de Fornecedores e Relacionamento com o Negócio (BRM).
+9. Gestão de Demanda, Capacidade e FinOps.
+10. Avaliação de Desempenho, Auditoria e Melhoria Contínua (CSI/PDCA).
 
-**José Eduardo Cardozo**  
-*Gestão de TI | Governança (GRC), Operações de Suporte e Inteligência Artificial*
+## Roadmap de implantação
+
+A proposta prevê um roadmap de 18 meses, organizado em cinco ondas de implantação, com dependências entre processos, marcos de controle e critérios de aceite.
+
+O cronograma é demonstrativo e deverá ser adaptado conforme o diagnóstico, os riscos, os recursos e as prioridades de cada organização.
+
+## Referenciais metodológicos
+
+O modelo considera referenciais de governança, gestão de serviços, segurança da informação, riscos e continuidade, incluindo ISO/IEC 38500, ISO/IEC 20000-1, ISO/IEC 27001, COBIT, ITIL 4, ISO 31000, ISO 22301, LGPD e COSO.
+
+A aplicabilidade de cada referência deverá ser avaliada conforme o contexto organizacional.
+
+## Estrutura do projeto
+
+- `01-arquitetura/` — Arquitetura e modelo de governança.
+- `02-roadmap/` — Planejamento e ondas de implantação.
+- `03-processos/` — Documentação dos dez processos.
+- `04-governanca-e-controles/` — Riscos, responsabilidades e controles.
+- `05-indicadores/` — Indicadores, metas e critérios de medição.
+- `06-diagramas/` — Fluxos e arquitetura integrada.
+- `docs/` — Glossário, premissas e referências.
+
+## Natureza do projeto
+
+Este é um projeto autoral e conceitual, desenvolvido como iniciativa independente para demonstrar uma abordagem integrada de governança de TI.
+
+Valores financeiros, prazos, metas, indicadores e projeções são simulados para fins demonstrativos. Não representam resultados comprovados de uma implantação empresarial.
+
+O modelo deve ser avaliado e adaptado antes de sua utilização em qualquer organização.
+
+## Evolução
+
+O projeto será aprofundado progressivamente por meio de procedimentos operacionais, matrizes de responsabilidades, fluxos, controles, indicadores e documentação específica para cada processo.
+
+## Autor
+
+José Eduardo Moura Cardozo
+
+Gestão de TI | Governança (GRC) | Operações de TI | Melhoria Contínua
