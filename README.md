@@ -1,5 +1,7 @@
 # Programa Integrado de Governança, Serviços e Segurança de TI
 
+![Capa do projeto de Governança, Serviços e Segurança de TI](assets/capa-projeto.svg)
+
 **SGS / SGSI — Projeto autoral e conceitual**
 
 ## Visão geral
