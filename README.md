@@ -102,3 +102,13 @@ Explore os principais componentes do programa:
 As pastas temáticas apresentam sínteses, estruturas e diagramas para facilitar a compreensão do modelo. A pasta `docs/` concentra os documentos de referência completos.
 
 Este repositório apresenta um **projeto autoral e conceitual**. Os modelos, processos e controles descritos não constituem comprovação de implantação em uma organização real.
+
+## Direitos autorais e condições de uso
+
+Este repositório contém material autoral de referência. O acesso público destina-se à consulta e à avaliação profissional e não concede uma licença geral para reprodução, redistribuição, adaptação ou exploração comercial dos materiais originais.
+
+Consulte o arquivo [LICENSE.md](LICENSE.md) para conhecer o aviso de direitos autorais, os usos permitidos, as restrições aplicáveis e a distinção entre conteúdo autoral e materiais de terceiros, incluindo normas, frameworks e publicações citadas.
+
+As normas técnicas, frameworks, marcas e demais referências mencionadas permanecem sujeitos aos direitos de seus respectivos titulares. A publicação deste projeto não implica afiliação, endosso ou autorização para reproduzir conteúdo protegido dessas fontes.
+
+A publicação pública no GitHub continua sujeita aos Termos de Serviço da plataforma, inclusive às permissões necessárias para visualizar e fazer *fork* do repositório dentro do GitHub.
