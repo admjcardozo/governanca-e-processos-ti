@@ -2,9 +2,9 @@
 
 ## Visão geral
 
-O Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI) propõe um modelo conceitual para conectar estratégia, governança, gestão de serviços, operações, segurança da informação, riscos e melhoria contínua.
+Neste programa, organizei a arquitetura para conectar estratégia, governança, gestão de serviços, operações, segurança da informação, riscos e melhoria contínua.
 
-A arquitetura foi concebida como uma referência adaptável a organizações de diferentes portes e níveis de maturidade. Sua aplicação depende do contexto organizacional, das prioridades de negócio, dos requisitos aplicáveis e da capacidade disponível.
+A estrutura funciona como referência conceitual, não como desenho pronto para adoção. Sua adaptação depende do contexto, das prioridades do negócio, dos requisitos aplicáveis e da capacidade disponível.
 
 > **Natureza do projeto:** case autoral e conceitual. Os modelos apresentados não constituem evidência de implantação, aprovação organizacional, auditoria ou certificação real.
 
@@ -30,13 +30,13 @@ A arquitetura foi concebida como uma referência adaptável a organizações de 
 
 ## Integração entre os componentes
 
-A arquitetura considera que os processos não funcionam isoladamente. A gestão de incidentes, por exemplo, pode alimentar a gestão de problemas; os registros de ativos e configurações apoiam a análise de impacto de mudanças; e os indicadores fornecem informações para priorização e melhoria.
+Parti do princípio de que os processos precisam trocar informações e apoiar decisões uns dos outros. A gestão de incidentes, por exemplo, pode alimentar a gestão de problemas; os registros de ativos e configurações apoiam a análise de impacto de mudanças; e os indicadores fornecem informações para priorização e melhoria.
 
 A governança integra essas informações para apoiar decisões, enquanto a segurança da informação, a continuidade e a gestão de riscos devem ser consideradas transversalmente.
 
 ## Planejamento de evolução
 
-O programa utiliza os seguintes horizontes de referência:
+Para organizar a evolução do programa, adotei dois horizontes de referência:
 
 - **Até 90 dias:** implantação inicial planejada, conforme escopo, prioridades, recursos e dependências.
 - **Até 18 meses:** evolução e maturação progressiva dos processos e mecanismos de governança.
