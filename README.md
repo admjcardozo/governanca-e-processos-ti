@@ -6,9 +6,9 @@
 
 ## Visão geral
 
-Este projeto propõe um modelo integrado de Governança, Gestão de Serviços e Segurança da Informação, conectando estratégia, operação, riscos, compliance e melhoria contínua.
+Organizei este programa para aproximar governança de TI, gestão de serviços, operações e segurança da informação. A estrutura conecta estratégia, execução, riscos, compliance e melhoria contínua em um mesmo modelo de referência.
 
-A arquitetura foi concebida para ser adaptada a organizações de diferentes portes e níveis de maturidade, considerando suas necessidades, prioridades e restrições.
+A proposta pode ser adaptada a organizações de diferentes portes e níveis de maturidade. Essa adaptação exige considerar prioridades, recursos, dependências e requisitos de cada contexto.
 
 ## Objetivos
 
@@ -36,12 +36,12 @@ O programa contempla dez processos interdependentes:
 
 ## Roadmap de implantação
 
-A proposta contempla um horizonte indicativo de até 18 meses, organizado em **cinco ondas de implantação** e **cinco marcos de transição (*Quality Gates*)**, com dependências entre processos, critérios de avaliação e pontos de controle.
+Organizei o roadmap em **cinco ondas de implantação** e **cinco marcos de transição (*Quality Gates*)**, distribuídos em um horizonte indicativo de até 18 meses. Essa divisão permite agrupar frentes de trabalho, explicitar dependências e estabelecer pontos de avaliação antes do avanço entre ondas.
 
 O planejamento considera dois horizontes complementares:
 
 - **Implantação inicial — até 90 dias:** diagnóstico, priorização e início dos processos considerados prioritários.
-- **Evolução e maturação — até 18 meses:** desenvolvimento progressivo dos dez projetos, integração dos controles e consolidação das práticas de acompanhamento e melhoria contínua.
+- **Evolução e maturação — até 18 meses:** desenvolvimento progressivo dos dez processos, integração dos controles e consolidação das práticas de acompanhamento e melhoria contínua.
 
 Os *Quality Gates* representam pontos propostos de avaliação das condições de avanço entre as ondas. Seus critérios, períodos e evidências esperadas estão descritos no documento detalhado.
 
@@ -67,7 +67,7 @@ A aplicabilidade de cada referência deverá ser avaliada conforme o contexto or
 
 ## Natureza do projeto
 
-Este é um projeto autoral e conceitual, desenvolvido como iniciativa independente para demonstrar uma abordagem integrada de governança de TI.
+Este é um projeto conceitual e independente. Desenvolvi a estrutura para demonstrar como diferentes práticas de governança, serviços e segurança podem ser organizadas em um programa comum.
 
 Valores financeiros, prazos, metas, indicadores e projeções são simulados para fins demonstrativos. Não representam resultados comprovados de uma implantação empresarial.
 
@@ -75,7 +75,7 @@ O modelo deve ser avaliado e adaptado antes de sua utilização em qualquer orga
 
 ## Evolução
 
-O projeto será aprofundado progressivamente por meio de procedimentos operacionais, matrizes de responsabilidades, fluxos, controles, indicadores e documentação específica para cada processo.
+A próxima evolução do trabalho está na ampliação dos procedimentos, matrizes de responsabilidade, fluxos, controles e indicadores de cada processo.
 
 ## Autor
 
