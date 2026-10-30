@@ -2,9 +2,9 @@
 
 ## Visão geral
 
-Esta pasta apresenta a estrutura conceitual dos processos que compõem o Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI).
+Neste catálogo, organizei os dez processos que compõem o Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI).
 
-O objetivo é demonstrar como práticas de gestão de serviços, operações, segurança da informação, continuidade e melhoria contínua podem ser organizadas e integradas para apoiar a entrega de valor ao negócio.
+A intenção é mostrar como gestão de serviços, operações, segurança da informação, continuidade e melhoria contínua podem trabalhar de forma coordenada para apoiar a entrega de valor ao negócio.
 
 > **Natureza do projeto:** case autoral e conceitual. Os processos apresentados são propostas de referência e não constituem evidência de implantação ou aprovação por uma organização real.
 
@@ -84,7 +84,7 @@ Propõe o acompanhamento de indicadores, a avaliação de controles, o tratament
 
 ## Integração entre os processos
 
-Os processos devem ser entendidos como componentes relacionados, e não como estruturas isoladas.
+Estruturei os processos como componentes relacionados. Na prática, a informação produzida por um processo deve apoiar o trabalho e as decisões dos demais.
 
 - Incidentes podem gerar registros para investigação de problemas.
 - Problemas podem originar mudanças para corrigir causas estruturais.
