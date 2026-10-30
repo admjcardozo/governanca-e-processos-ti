@@ -2,9 +2,9 @@
 
 ## Visão geral
 
-Esta pasta apresenta o planejamento conceitual de implantação e evolução do Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI).
+Nesta pasta, apresento o planejamento conceitual de implantação e evolução do Programa Integrado de Governança, Serviços e Segurança de TI (SGS/SGSI).
 
-O roadmap organiza a evolução dos dez projetos em ondas progressivas, considerando prioridades, dependências, capacidade operacional, riscos e melhoria contínua.
+Organizei o roadmap em ondas progressivas para distribuir os dez processos conforme prioridades, dependências, capacidade operacional e riscos.
 
 > **Natureza do projeto:** case autoral e conceitual. Prazos, metas, custos, resultados e marcos são referências de planejamento; não constituem evidências de execução ou compromissos aprovados por uma organização real.
 
@@ -19,7 +19,7 @@ O roadmap organiza a evolução dos dez projetos em ondas progressivas, consider
 O planejamento de referência considera dois horizontes complementares:
 
 - **Implantação inicial — até 90 dias:** janela ilustrativa para diagnóstico, priorização e início dos processos prioritários.
-- **Evolução e maturação — até 18 meses:** horizonte indicativo para desenvolver os dez projetos, integrar controles e consolidar práticas de acompanhamento e melhoria contínua.
+- **Evolução e maturação — até 18 meses:** horizonte indicativo para desenvolver os dez processos, integrar controles e consolidar práticas de acompanhamento e melhoria contínua.
 
 Os 90 dias não representam prazo garantido para concluir toda a implantação inicial. Os períodos dependem do escopo, das prioridades, dos recursos, das dependências e das condições de execução.
 
